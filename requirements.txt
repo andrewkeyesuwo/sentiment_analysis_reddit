@@ -1,0 +1,6 @@
+praw
+indicoio
+watson_developer_cloud
+numpy
+matplotlib
+requests
